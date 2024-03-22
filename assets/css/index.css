@@ -27,7 +27,6 @@ html {
 
 html[theme ='theme-2']
 {
-     font-family: spartan;
      --main-background: hsl(0, 0%, 90%);
      --toggle-background-keypad-background: hsl(0, 5%, 81%);
      --screen-background: hsl(0, 0%, 93%);
@@ -53,7 +52,6 @@ html[theme ='theme-2']
 
 html[theme ='theme-3']
 {
-     font-family: spartan;
      --main-background: hsl(268, 75%, 9%);
      --toggle-background-keypad-background: hsl(268, 71%, 12%);
      --screen-background: hsl(268, 71%, 12%);
